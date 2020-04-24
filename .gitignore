@@ -1,0 +1,10 @@
+# dependencies
+**/node_modules
+
+# production
+**/build
+
+.idea
+.vscode
+
+package-lock.json
